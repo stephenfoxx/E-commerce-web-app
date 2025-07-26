@@ -1,0 +1,148 @@
+export const top_selling = [
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/376766/2.jpg?5607",
+    description: "Casual  Shoulder Sports Sling Bag Chest Bag Crossbody Bag",
+    price: 2100,
+    discount: 9500,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/376766/2.jpg?5607",
+    description: "Casual  Shoulder Sports Sling Bag Chest Bag Crossbody Bag",
+    price: 2100,
+    discount: 9500,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/376766/2.jpg?5607",
+    description: "Casual  Shoulder Sports Sling Bag Chest Bag Crossbody Bag",
+    price: 2100,
+    discount: 9500,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/376766/2.jpg?5607",
+    description: "Casual  Shoulder Sports Sling Bag Chest Bag Crossbody Bag",
+    price: 2100,
+    discount: 9500,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/376766/2.jpg?5607",
+    description: "Casual  Shoulder Sports Sling Bag Chest Bag Crossbody Bag",
+    price: 2100,
+    discount: 9500,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/376766/2.jpg?5607",
+    description: "Casual  Shoulder Sports Sling Bag Chest Bag Crossbody Bag",
+    price: 2100,
+    discount: 9500,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/376766/2.jpg?5607",
+    description: "Casual  Shoulder Sports Sling Bag Chest Bag Crossbody Bag",
+    price: 2100,
+    discount: 9500,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/376766/2.jpg?5607",
+    description: "Casual  Shoulder Sports Sling Bag Chest Bag Crossbody Bag",
+    price: 2100,
+    discount: 9500,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/376766/2.jpg?5607",
+    description: "Casual  Shoulder Sports Sling Bag Chest Bag Crossbody Bag",
+    price: 2100,
+    discount: 9500,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/376766/2.jpg?5607",
+    description: "Casual  Shoulder Sports Sling Bag Chest Bag Crossbody Bag",
+    price: 2100,
+    discount: 9500,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/376766/2.jpg?5607",
+    description: "Casual  Shoulder Sports Sling Bag Chest Bag Crossbody Bag",
+    price: 2100,
+    discount: 9500,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/376766/2.jpg?5607",
+    description: "Casual  Shoulder Sports Sling Bag Chest Bag Crossbody Bag",
+    price: 2100,
+    discount: 9500,
+  },
+];
+export const limited_stock = [
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/7283311/1.jpg?0657",
+    description: "Oraimo OPB-P118D 10000 Mah Power-Bank Dual Fast Charging",
+    price: 11500,
+    discount: 24000,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/7283311/1.jpg?0657",
+    description: "Men's Casual Pants Elastic Sports Pants",
+    price: 5900,
+    discount: 10000,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/7283311/1.jpg?0657",
+    description: "Oraimo OPB-P118D 10000 Mah Power-Bank Dual Fast Charging",
+    price: 11500,
+    discount: 24000,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/7283311/1.jpg?0657",
+    description: "Men's Casual Pants Elastic Sports Pants",
+    price: 5900,
+    discount: 10000,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/7283311/1.jpg?0657",
+    description: "Oraimo OPB-P118D 10000 Mah Power-Bank Dual Fast Charging",
+    price: 11500,
+    discount: 24000,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/7283311/1.jpg?0657",
+    description: "Men's Casual Pants Elastic Sports Pants",
+    price: 5900,
+    discount: 10000,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/7283311/1.jpg?0657",
+    description: "Oraimo OPB-P118D 10000 Mah Power-Bank Dual Fast Charging",
+    price: 11500,
+    discount: 24000,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/7283311/1.jpg?0657",
+    description: "Men's Casual Pants Elastic Sports Pants",
+    price: 5900,
+    discount: 10000,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/7283311/1.jpg",
+    description: "Oraimo OPB-P118D 10000 Mah Power-Bank Dual Fast Charging",
+    price: 11500,
+    discount: 24000,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/7283311/1.jpg",
+    description: "Men's Casual Pants Elastic Sports Pants",
+    price: 5900,
+    discount: 10000,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/7283311/1.jpg?0657",
+    description: "Oraimo OPB-P118D 10000 Mah Power-Bank Dual Fast Charging",
+    price: 11500,
+    discount: 24000,
+  },
+  {
+    img: "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/7283311/1.jpg?0657",
+    description: "Men's Casual Pants Elastic Sports Pants",
+    price: 5900,
+    discount: 10000,
+  },
+];
